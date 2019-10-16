@@ -1,0 +1,52 @@
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+#container {
+	margin: auto;
+	border: 2px solid gray;
+	width: 50%;
+}
+.firstDiv input {
+	width: 30%;
+	padding: 7px;
+	margin: 10px;
+}
+.secondDiv input {
+	width: 67.5%;
+	padding: 7px;
+	margin: 10px;
+}
+.thirdDiv input{
+	width: 67.5%;
+	padding: 7px;
+	margin: 10px;
+}
+.fourthDiv {
+	margin: 10px;
+}
+.fithDiv {
+	margin: 10px;
+}
+#warning {
+	width: 375px;
+	margin: 10px;
+	font-size: 13px;
+}
+.signUpButton {
+	margin: 10px;
+}
+.signUpButton button {
+	padding: 10px;
+	width: 25%;
+	background-color: green;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
